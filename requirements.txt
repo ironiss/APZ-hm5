@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+httpx
+pydantic
+gunicorn
+hazelcast-python-client
+aiokafka
+python-consul
